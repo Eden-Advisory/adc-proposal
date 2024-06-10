@@ -1,6 +1,6 @@
 # Proposal for Project: Ampersand Ontoology
 
-## TITLE: Ampersand Ontoology - Phased Data Integration and Engagement Project
+## Augment Customer Engagement with Community Data
 
 ## SITUATION APPRAISAL
 
@@ -13,7 +13,7 @@ Project Ampersand Ontoology aims to unify and transform customer POS data with c
 3. **Operational Efficiency**: Streamline and automate data processes to maintain up-to-date customer insights.
 4. **Customer Engagement and Retention**: Implement a loyalty system that leverages data insights to enhance customer engagement and retention.
 
-## Visualization
+## VISUALIZATION
 ```mermaid
 graph LR;
     Strava[(Strava Club Data)]
@@ -50,32 +50,32 @@ The successful implementation of this project will enable Ampersand to leverage 
 - **Merge Data**: Integrate datasets from Google Sheets and POS system for a holistic view.
 - **Optional Enhancements**: Include data from Strava and Facebook to enrich the dataset.
 
-**Deliverables**:
-- **Dataset**: A comprehensive dataset that includes all relevant data from Google Sheets, POS system, and optionally Strava and Facebook.
+- **Deliverables**:
+    - **Dataset**: A comprehensive dataset that includes all relevant data from Google Sheets, POS system, and optionally Strava and Facebook.
 
 ### Phase 2: Analytics and Optimization
 - **Data Utilization**: Use transformed data to fuel a loyalty and community engagement system.
 - **Campaign Optimization**: Analyze joined data to refine marketing strategies, sales approaches, and customer interactions.
 
-**Deliverables**:
-- **Analysis**: A detailed analysis of the dataset, including insights on customer behavior, engagement patterns,etc.
+- **Deliverables**:
+    - **Analysis**: A detailed analysis of the dataset, including insights on customer behavior, engagement patterns,etc.
 
 ### Phase 3: Operationalize and Maintain
 - **Data Pipeline Maintenance**: Ensure continuous data updates and pipeline efficiency.
 - **Marketing Automation**: Utilize data insights for targeted marketing campaigns via emails, newsletters, and SMS.
 - **Infrastructure Hosting**: Manage and maintain the infrastructure required for ongoing data processing and analytics.
 
-**Deliverables**:
-- **Data Pipeline**: A reliable and efficient data pipeline that can handle continuous updates and reporting on the above-mentioned deliverables.
+- **Deliverables**:
+    - **Data Pipeline**: A reliable and efficient data pipeline that can handle continuous updates and reporting on the above-mentioned deliverables.
 
 ### OPTIONAL - Phase 4: NFT Rewards + Fort Worth DAO Partnership
 - **NFT Rewards System**: Develop an NFT-based system to reward customer engagement.
 - **Community Tokenization**: Use NFTs as badges and access tokens for exclusive community benefits.
 - **DAO Partnership**: Establish a partnership with Fort Worth DAO to leverage NFTs as a means of funding community initiatives.
 
-**Deliverables**:
-- **NFT Rewards System**: A system that uses NFTs to incentivize customer engagement and participation.
-- **Training and Education**: Provide training and education on the process of deploying rewards systems and community tokenization to staff and ambassadors.
+- **Deliverables**:
+    - **NFT Rewards System**: A system that uses NFTs to incentivize customer engagement and participation.
+    - **Training and Education**: Provide training and education on the process of deploying rewards systems and community tokenization to staff and ambassadors.
 
 ## COST
 
